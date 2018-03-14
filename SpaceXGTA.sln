@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceXGTA.Plugins", "SpaceXGTA.Plugins.csproj", "{E5AF6437-726A-2FD5-AE57-02C43A47A52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceXGTA", "SpaceXGTA.csproj", "{8C6278F4-6A9A-9B92-237C-925050F6DEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceXGTA.Editor.Plugins", "SpaceXGTA.Editor.Plugins.csproj", "{A22DC914-E642-F940-EC08-01972D6DED69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5AF6437-726A-2FD5-AE57-02C43A47A52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5AF6437-726A-2FD5-AE57-02C43A47A52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5AF6437-726A-2FD5-AE57-02C43A47A52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5AF6437-726A-2FD5-AE57-02C43A47A52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6278F4-6A9A-9B92-237C-925050F6DEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6278F4-6A9A-9B92-237C-925050F6DEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6278F4-6A9A-9B92-237C-925050F6DEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6278F4-6A9A-9B92-237C-925050F6DEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A22DC914-E642-F940-EC08-01972D6DED69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22DC914-E642-F940-EC08-01972D6DED69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22DC914-E642-F940-EC08-01972D6DED69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22DC914-E642-F940-EC08-01972D6DED69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
